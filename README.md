@@ -19,7 +19,6 @@ If interested, contact me at chandrikadeb7@gmail.com
 # 🌟 [Purchase on Gumroad](https://gum.co/GetFaceMask)
  
 ## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
 
 :computer: [Dev Link](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
 
