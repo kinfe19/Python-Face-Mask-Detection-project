@@ -165,32 +165,11 @@ Feel free to mail me for any doubts/query
 
 ---
 
-## :trophy: Awards
-Awarded Runners Up position in [Amdocs Innovation India ICE Project Fair]( https://www.amdocs.com/)
-
-![](Readme_images/nn.jpeg)
-
-## :raising_hand: Cited by:
-
-1. https://osf.io/preprints/3gph4/
-2. https://link.springer.com/chapter/10.1007/978-981-33-4673-4_49
-3. https://ieeexplore.ieee.org/abstract/document/9312083/
-4. https://link.springer.com/chapter/10.1007/978-981-33-4673-4_48
-5. https://www.researchgate.net/profile/Akhyar_Ahmed/publication/344173985_Face_Mask_Detector/links/5f58c00ea6fdcc9879d8e6f7/Face-Mask-Detector.pdf
-
-## 👏 Appreciation
-
-### Selected in [Devscript Winter Of Code](https://devscript.tech/woc/)
-<img src="Readme_images/Devscript.jpeg" height=300 width=300>
-
-### Selected in [Script Winter Of Code](https://swoc.tech/project.html)
-<img src="Readme_images/winter.jpeg" height=300 width=300>
-
-### Seleted in [Student Code-in](https://scodein.tech/)
-<img src="Readme_images/sci.jpeg" height=300 width=300>
 
 ## :+1: Credits
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
+
+* Thank you @kinfe19 
 
 
 
